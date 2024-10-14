@@ -20,3 +20,5 @@ inhibit-stiridva
    `git commit -m "Tik pred shranjevanjem na strežnik"`
    `git push origin master`
 4. Poglej, kako izgledajo datoteke na strežniku.
+"42"
+
